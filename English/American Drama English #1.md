@@ -1,5 +1,5 @@
 自从微信推出公众帐号之后，就不断订阅一些适合自己的微信号。其中“美剧英语每日一句”（微信号：followmeapp）会每天精选一句美剧中的经典实用台词大家分享，是由`@吴彧Allen`推送的，感觉做的很好，下面是我平时收听整理的网页版：  
-_ _ _  _ _ _  
+_ _ _   
 1. Can I run a few ideas past you?   
    译文：我能和你聊聊吗？  
    可以取代我们日常的 Do you have a minute?  
@@ -71,6 +71,7 @@ _ _ _  _ _ _
     My job/My girlfriend/My boyfriend can be very frustrating sometimes.
 20. Okay, listen, Why don't you try to relax, okay? Maybe have a drink?  
     译文：试着放松点儿，要不咱们喝一杯怎么样？  
-    Relax! Everything is fine.
-_ _ _
+    Relax! Everything is fine. 
+
+* * *     
 第一期就到这了吧，下次继续！Good Luck!!!
