@@ -1,11 +1,3 @@
----
-layout: post
-title: "Linux下LNMP环境的简单搭建"
-date: 2013-05-05 15:35
-comments: true
-categories: Linux Web 
----
-
 前几天因为我师傅申请了个新的VPS，但是发现Apache很耗资源，想换成Nginx，他又没时间折腾，我就帮他折腾了一下。
 趁周末把它记录一下，要不然过一段时间又忘记了的。关于Web服务器的搭建也可以参考[Linux下搭建LAMP环境](http://www.coolshare.pw/blog/2013/04/12/linuxxia-da-jian-lamphuan-jing/)，下面转入正题：     
 我的系统是Scientific Linux。<pre><code>[benbenbear@benbenbear Work]$ lsb_release -a
