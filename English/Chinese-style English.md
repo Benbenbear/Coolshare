@@ -56,7 +56,7 @@ work are you?
      -- I’m fine, and you? > I’m pretty good. How about you? / I’m
      great. What about you?  
 
-OK! If you have any suggestions/comments/concerns, please feel free tolet me know.   
+OK! If you have any suggestions/comments/concerns, please feel free to let me know.   
 My contact details:  QQ:516967436  
 
 Best Regards and Many Thanks  
