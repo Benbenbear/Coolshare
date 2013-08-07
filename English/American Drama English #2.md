@@ -1,6 +1,6 @@
-如果想看第一期请点击：[美剧英语第一期](http://www.coolshare.pw/blog/2013/05/18/mei-ju-ying-yu-di-%5B%3F%5D-qi/)  
+如果想看第一期请点击：[美剧英语第一期](https://github.com/Benbenbear/Coolshare/blob/master/English/American%20Drama%20English%20%231.md)  
 接下来是第二期:     
-
+_ _ _
 1. Chad has told me such great things about you.  
     译文：久仰大名。  
     I've heard a lot about you.
@@ -17,8 +17,8 @@
    Do you have a minute?/Can I run a few ideas past you?
 5. You're so generous and kind and scrappy!  
    译文：你真是善良，慷慨大方又充满斗志啊！  
-   +a scrappy team that plays hard.  
-   -That crazy little white dude is really scrappy so watch your back.
+   + a scrappy team that plays hard.  
+   - That crazy little white dude is really scrappy so watch your back.
 6. Now, let me explain how this works.  
    译文：现在请让我解释一下这是如何使用的。  
    How does it work?
@@ -78,6 +78,7 @@
 20. I'm trying to help her become a better person. This is a huge breakthrough for her!  
     译文：我在试着帮她成为一个更好的人。对她而言这绝对是一个重大突破。  
     breakthrough n.     
-    This is a huge breakthrough for us/my company/China!
+    This is a huge breakthrough for us/my company/China!  
+
 _ _ _
 第二期就到这吧！下次继续！Good Luck！！！
