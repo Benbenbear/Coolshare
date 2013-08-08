@@ -1,5 +1,6 @@
-如果想看第二期请点击：[美剧英语第二期](http://coolshare.logdown.com/posts/84246-american-drama-english-2) 
-如果想看第三期请点击：[美剧英语第三期](http://www.coolshare.pw/posts/84270-american-drama-english-3)
+如果想看第一期请点击：[美剧英语第一期](https://github.com/Benbenbear/Coolshare/blob/master/English/American%20Drama%20English%20%231.md)   
+如果想看第二期请点击：[美剧英语第二期](https://github.com/Benbenbear/Coolshare/blob/master/English/American%20Drama%20English%20%232.md)   
+如果想看第三期请点击：[美剧英语第三期](https://github.com/Benbenbear/Coolshare/blob/master/English/American%20Drama%20English%20%233.md)  
 接下来是第四期:
 _ _ _
 1. Our subway broke down.  
