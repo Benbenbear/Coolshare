@@ -1,5 +1,5 @@
-如果想看第一期请点击：[美剧英语第一期](http://coolshare.logdown.com/posts/84245-american-drama-english-1) 
-如果想看第二期请点击：[美剧英语第二期](http://coolshare.logdown.com/posts/84246-american-drama-english-2) 
+如果想看第一期请点击：[美剧英语第一期](http://coolshare.logdown.com/posts/84245-american-drama-english-1)   
+如果想看第二期请点击：[美剧英语第二期](http://coolshare.logdown.com/posts/84246-american-drama-english-2)   
 接下来是第三期:    
 _ _ _
 1. They thought it was very smart of us to have a child write the recommendation letter.  
