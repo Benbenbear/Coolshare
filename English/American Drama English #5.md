@@ -1,7 +1,7 @@
-如果想看第一期请点击：[美剧英语第一期](https://github.com/Benbenbear/Coolshare/blob/master/English/American%20Drama%20English%20%231.md) 
-如果想看第二期请点击：[美剧英语第二期](https://github.com/Benbenbear/Coolshare/blob/master/English/American%20Drama%20English%20%232.md) 
-如果想看第三期请点击：[美剧英语第三期](https://github.com/Benbenbear/Coolshare/blob/master/English/American%20Drama%20English%20%233.md)
-如果想看第四期请点击：[美剧英语第四期](https://github.com/Benbenbear/Coolshare/blob/master/English/American%20Drama%20English%20%234.md)
+如果想看第一期请点击：[美剧英语第一期](https://github.com/Benbenbear/Coolshare/blob/master/English/American%20Drama%20English%20%231.md)   
+如果想看第二期请点击：[美剧英语第二期](https://github.com/Benbenbear/Coolshare/blob/master/English/American%20Drama%20English%20%232.md)   
+如果想看第三期请点击：[美剧英语第三期](https://github.com/Benbenbear/Coolshare/blob/master/English/American%20Drama%20English%20%233.md)  
+如果想看第四期请点击：[美剧英语第四期](https://github.com/Benbenbear/Coolshare/blob/master/English/American%20Drama%20English%20%234.md)  
 接下来是第五期:
 _ _ _ 
 1. Hey, check out the flyers for the band.  
