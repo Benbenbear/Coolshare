@@ -46,7 +46,7 @@ phpinfo();
 ?>
 ```
 在浏览器输入`http://localhost`，会出现下面的图片，说明已经可以解析PHP了。     
-![php-nginx.png](https://s3.amazonaws.com/logdown-production/user/3286/blog/3333/post/84494/qUJMHg1GTkqz6q5TfmUy_php-nginx.png)    
+![php-nginx.png](https://github.com/Benbenbear/Coolshare/blob/master/images/php-nginx.png)    
 Good Luck!
 
 
