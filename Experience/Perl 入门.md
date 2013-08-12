@@ -21,7 +21,7 @@ floating-point)
   双引号内的字符串直接量   
 * 字符串操作符  
   连接操作符 `.`  
-```
+``` perl
 "hello" . "world"        //"helloworld"
 "hello" . ' ' . "world"  //'hello world'
 'hello world' . "\n"     //"hello world\n"
@@ -30,7 +30,7 @@ floating-point)
   长度为0的字符串    
   数字与字符串之间的自动转换  
 <ul><li>Perl内置警告信息<br/></ul>   
-```
+``` perl
 a. #!/usr/bin/perl
    use warnings;
 b. $ perl -w my_program
@@ -43,7 +43,7 @@ d. #!perl -w
   双目赋值操作符(+= *= .=)   
 * 用print输出结果   
   字符串中的标量变量内插   
-```
+``` perl
 $hello = "my name is $name";(看起来舒服)
 $hello = 'my name is' .$name;
 print "$hello";
@@ -52,7 +52,7 @@ print $hello;(尽量用下面,免得被嘲笑)
   借助代码点创建字符  
 <ul><li>操作符的优先级与结合性(尽量用括号,不要自己为难自己)</br></ul>   
   比较操作符   
-```
+``` perl
 比较 数字 字符串
 相等 == eq
 不等 != ne
