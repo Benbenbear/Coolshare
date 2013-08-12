@@ -21,38 +21,38 @@ floating-point)
   双引号内的字符串直接量   
 * 字符串操作符  
   连接操作符 `.`  
-{% codeblock %}
+```
 "hello" . "world"        //"helloworld"
 "hello" . ' ' . "world"  //'hello world'
 'hello world' . "\n"     //"hello world\n"
-{% endcodeblock %}
+```
   重复操作符 x `5 x 4.8` //本质上是"5"x4 5555 当重复次数小于1时会生成
   长度为0的字符串    
   数字与字符串之间的自动转换  
 <ul><li>Perl内置警告信息<br/></ul>   
-{% codeblock %}
+```
 a. #!/usr/bin/perl
    use warnings;
 b. $ perl -w my_program
 c. #!/usr/bin/perl-w
 d. #!perl -w
-{% endcodeblock %}  
+```  
 * 标量变量   
   给变量取个好名字   
   标量的赋值   
   双目赋值操作符(+= *= .=)   
 * 用print输出结果   
   字符串中的标量变量内插   
-{% codeblock %}
+```
 $hello = "my name is $name";(看起来舒服)
 $hello = 'my name is' .$name;
 print "$hello";
 print $hello;(尽量用下面,免得被嘲笑)
-{% endcodeblock %}  
+```  
   借助代码点创建字符  
 <ul><li>操作符的优先级与结合性(尽量用括号,不要自己为难自己)</br></ul>   
   比较操作符   
-{% codeblock %}
+```
 比较 数字 字符串
 相等 == eq
 不等 != ne
@@ -60,9 +60,9 @@ print $hello;(尽量用下面,免得被嘲笑)
 大于 > gt
 小于等于 <= le
 大于等于 >= ge
-{% endcodeblock %}
+```
 * if控制结构   
-{% codeblock lang:perl %}
+``` perl
   if(...){
   ....
   }
@@ -72,17 +72,17 @@ print $hello;(尽量用下面,免得被嘲笑)
   }else{
   ...
   }
-{% endcodeblock %}
+```
   **important:if条件语句中的代码块周围一定要加上{}.**   
   布尔值  
   字符串` '0' `会被当成假的唯一非空字符串  
 <ul><li>获取用户输入</br></ul>  
-{% codeblock %}
+```
 $line = <STDIN>;     
 chomp操作符   
 chomp($text = <STDIN>);读入文字,略过最后的换行符  
 chomp()本质上是函数,返回值是移除的字符数,如果后面有2个换行符,移除其中一个；如果没有就什么也不做,返回0.
-{% endcodeblock %}     
+```     
 * while控制结构  
   undef值(0或者空字符串)  
   defined函数
