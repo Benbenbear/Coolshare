@@ -214,6 +214,6 @@ Yes, it contains the string "r"
 Yes, it contains the string "bear"
 Brazil_*_Russia_*_India_*_China
 </pre></code>
-`PS:` `starts with`用来测试字符串是否以给定字符串开始，in检查某个字符串是不是另一个字符串的一部分，find用于找出特定字符串在某字符串中的位置，返回-1表示找不到,join返回一个生成的大字符串。
+`PS:` starts with 用来测试字符串是否以给定字符串开始，in检查某个字符串是不是另一个字符串的一部分，find用于找出特定字符串在某字符串中的位置，返回-1表示找不到,join返回一个生成的大字符串。
 
 关于Python的数据结构就先到这吧，忘记带笔记本电源回来，没法work了。下次继续吧！Good Luck！
