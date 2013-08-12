@@ -7,9 +7,11 @@
 3. 把windows下隐藏文件全部显示出来，就可以在C盘根目录下看到boot.ini,先解除其只读属性，在cmd下输入 `attrib -s -r -h c:\boot.ini`。用记事本>打开该文件，在最后面添加一行`c:\grldr=“Scientific linux” `，编辑完成后再恢复boot.ini的只读属性，即在cmd下输入`attrib +s +r +h c:\boot.ini`>即可。    
 
 4. 打开打开C:\menu.lst文件添加以下内容(注意kernel和initrd后面有空格)：    
-      ```title Scientific Linux //指定在grldr中显示的标题    
-      kernel (hd0,0)/isolinux/vmlinuz //指定内核文件在哪个磁盘的哪个分区的哪个目录中    
-      initrd (hd0,0)/isolinux/initrd.img //指定initrd.img文件路径，用于在内核启动之后加载硬件驱动```    
+      ```
+      title Scientific Linux //指定在grldr中显示的标题     
+      kernel (hd0,0)/isolinux/vmlinuz //指定内核文件在哪个磁盘的哪个分区的哪个目录中      
+      initrd (hd0,0)/isolinux/initrd.img //指定initrd.img文件路径，用于在内核启动之后加载硬件驱动
+      ```    
 
 5. 现在重启就可以进行安装了，安装过程中注意磁盘分区选择手动分区（安装Scientific Linux的分区是可以先在windows下格式化之后预留好，也可以临格式化处理），根据自己的实际需要进行分区，要不然有可能整个硬盘的数据被干掉。时间设置时不要勾选UTC时钟，要不然有可能装完后系统时间会过快或过慢。
 
