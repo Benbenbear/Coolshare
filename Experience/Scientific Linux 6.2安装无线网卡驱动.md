@@ -1,8 +1,8 @@
 我的`Scientific Linux 6.2`装完之后，发现不可以无线上网，我的无线网卡是`Broadcom BCM4311`的，网上查阅了很多资料，都说是没有无线网卡驱动，我>网上找了很多资料，都没有搞成功。大家可以参考以下的方法：
 
-[方法1](http://www.xnlinux.cn/thread-1503-1-1.html)
-[方法2](http://wiki.centos.org/zh/HowTos/Laptops/Wireless/Broadcom#head-3f2ee861edb7870fe117952cd96b78da22088d25)
-[方法3](http://www.broadcom.com/docs/linux_sta/README.txt)
+[方法1](http://www.xnlinux.cn/thread-1503-1-1.html)  
+[方法2](http://wiki.centos.org/zh/HowTos/Laptops/Wireless/Broadcom#head-3f2ee861edb7870fe117952cd96b78da22088d25)  
+[方法3](http://www.broadcom.com/docs/linux_sta/README.txt)  
 
 貌似是可以成功的，也许是我电脑的问题，我的参照上述方法没有成功。我
 最后是参考了_Sudhaker's Blog_中的方法，成功了的，具体如下：
