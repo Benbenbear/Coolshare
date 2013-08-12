@@ -157,7 +157,7 @@ characters 2 to end is nbenbear
 characters 1 to -1 is enbenbea
 characters start to end is benbenbear
 </pre></code>
-```PS: 序列的两个特点是索引操作符和切片操作符。列表，元组和字符串都是序列。python从0开始计数。切片操作符中的第一个数表示切片开始的位置，第二个数表示切片到哪里结束，不包含第二个数。```  
+`PS:` 序列的两个特点是索引操作符和切片操作符。列表，元组和字符串都是序列。python从0开始计数。切片操作符中的第一个数表示切片开始的位置，第二个数表示切片到哪里结束，不包含第二个数。  
 `pro24.py 对象与参考`
 ``` python
 #!/usr/bin/python
@@ -214,6 +214,6 @@ Yes, it contains the string "r"
 Yes, it contains the string "bear"
 Brazil_*_Russia_*_India_*_China
 </pre></code>
-```PS: startswith用来测试字符串是否以给定字符串开始，in检查某个字符串是不是另一个字符串的一部分，find用于找出特定字符串在某字符串中的位置，返回-1表示找不到,join返回一个生成的大字符串。```
+`PS:` startswith用来测试字符串是否以给定字符串开始，in检查某个字符串是不是另一个字符串的一部分，find用于找出特定字符串在某字符串中的位置，返回-1表示找不到,join返回一个生成的大字符串。
 
-关于Pyhthon的数据结构就先到这吧，忘记带笔记本电源回来，没法work了。下次继续吧！Good Luck！
+关于Python的数据结构就先到这吧，忘记带笔记本电源回来，没法work了。下次继续吧！Good Luck！
