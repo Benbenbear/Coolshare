@@ -42,7 +42,7 @@ We meet again! How about you on the weekend? Today I will share some common/freq
 OK! If you have any supplements please feel free to add it in the back. I’m looking forward to your valuable feedback.
 Have a nice week, everyone!
 
-Best Regards
+Best Regards  
 -James
 
 
