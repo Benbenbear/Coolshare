@@ -25,9 +25,11 @@
 
 `M-. `  输出上次命令的最后一个参数(可能没说太清楚,举个例子)   
 这里发现`cd`到一个文档错了,下次你就输入`cat`,再按`M-. `就会自动把后面的`/etc/passwd`补充上了的.   
-     ```[benbenbear@wanghs ~]$ cd /etc/passwd
-     -bash: cd: /etc/passwd: Not a directory
-     [benbenbear@wanghs ~]$ cat /etc/passwd```
+``` 
+     [benbenbear@wanghs ~]$ cd /etc/passwd  
+     -bash: cd: /etc/passwd: Not a directory  
+     [benbenbear@wanghs ~]$ cat /etc/passwd    
+```
 
 `C-M-y`  同上,也是输出上次命令的最后一个参数  
 
