@@ -10,5 +10,5 @@ initrd (hd0,6)/isolinux/initrd.img//指定initrd.img文件路径，用于在内�
 
 安装完成后进入`Scientific linux 6.2`系统后：`vim /boot/grub/grub.conf`， 把`hiddenmenu `注释掉：这样就会显示出启动菜单。 把`title Other `成直观的名称：如`title win7` （你随便改都可以，你可以改成别人看到你电脑不知道是什么系统都可以，哈哈。。。。）
 
-最后进入`win7`通过`EasyBCD`在刚才点击`configure`的页面`remove`掉刚才的`Neogrub`，再卸载该软件即可，清除`F`盘提取出来的两个文件夹。
+最后进入`win7`通过`EasyBCD`在刚才点击`configure`的页面`remove`掉刚才的`Neogrub`，再卸载该软件即可，清除`F`盘提取出来的两个文件夹。  
 It`s over! Enjoy your win7 and Linux！！！！
