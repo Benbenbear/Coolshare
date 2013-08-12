@@ -1,4 +1,4 @@
-接着之前的[python学习笔记#1](https://github.com/Benbenbear/Coolshare/blob/master/Experience/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%231.md).         
+接着之前的[python学习笔记#1](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%231.md).         
 `pro10.py 局部变量`
 ``` python
 #!/usr/bin/python
