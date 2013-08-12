@@ -157,8 +157,7 @@ characters 2 to end is nbenbear
 characters 1 to -1 is enbenbea
 characters start to end is benbenbear
 </pre></code>
-`PS: 序列的两个特点是索引操作符和切片操作符。列表，元组和字符串都是序列。python从0开始计数。切片操作符中的第一个数表示切片开始的位置，第二个数表示切片到哪里结束，不包含第二个数。`
-
+`PS: 序列的两个特点是索引操作符和切片操作符。列表，元组和字符串都是序列。python从0开始计数。切片操作符中的第一个数表示切片开始的位置，第二个数表示切片到哪里结束，不包含第二个数。`  
 `pro24.py 对象与参考`
 ``` python
 #!/usr/bin/python
