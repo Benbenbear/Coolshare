@@ -46,7 +46,7 @@
   注意:对一个空数组变量,shift会返回undef  
 * splice操作符：添加或移除数组中间的某些元素  
   可接受4个参数,后两个是可选参数
-{% codeblock %} @array = qw( pebbles dino fred barney betty );
+<pre><code>perl @array = qw( pebbles dino fred barney betty );
 @removed = splice @array,2; //@removed现在是qw( fred barney betty )
 @array现在是qw( pebbles dino )
 @array = qw ( pebbles dino fred barney betty );
@@ -57,8 +57,7 @@
 @array现在是qw( pebbles wilma barney betty )
 @array = qw ( pebbles dino fred barney betty );
 @removed = splice @array,1,0,qw(wilma); //@removed现在是qw()
-@array现在是 qw ( pebbles wilma dino fred barney betty );
-{% endcodeblock %}
+@array现在是 qw ( pebbles wilma dino fred barney betty );</pre><code>
 * 字符串中的数组内插  
   $email = "fred@bedrock.edu"; 错误  
   $email = "fred\@bedrock.edu";正确  
@@ -71,20 +70,17 @@
   $y = '2*2';  
   $x = "This is $fred[$y-1]'s place";//This is world's place  
 * 如果要在某个标量后面写[],需要先将这个[]隔开,才不至于被识别为数组的一部分.    
-{% codeblock %}@fred = qw(eating rock is wrong);  
+<pre><code>perl @fred = qw(eating rock is wrong);  
   $fred = "right";
   print "this is $fred[3]\n";
   print "this is ${fred}[3]\n";
   print "this is $fred"."[3]\n";
-  print "this is $fred\[3]\n";  
-{% endcodeblock %}
-  运行结果:
-{% codeblock %}
-this is wrong
+  print "this is $fred\[3]\n";</pre><code>
+运行结果:
+<pre><code>this is wrong
 this is right[3]
 this is right[3]
-this is right[3]
-{% endcodeblock %}
+this is right[3]</pre><code>
 * foreach控制结构  
   控制变量(control variable)并不是列表元索引的复制品,实际上它就是列表元素本身.假如在循环中修改了控制变量的值,也就同时修改了这个列表的元素.  
   perl会自动保存foreach循环的控制变量的值并在循环结束后还原  
@@ -99,7 +95,7 @@ this is right[3]
   perl5.12版本开始,可以针对数组使用each操作符.(提取哈希的键值对,提取数
   组元素的索引和值)  
 * 标量上下文和列表上下文(非常重要!!!)  
-{% codeblock %}eg. @people = qw ( fred barney betty );
+<pre><code>eg. @people = qw ( fred barney betty );
 @sorted = sort @people; //列表上下文:barney betty fred
 $number = 42 + @people; //标量上下文: 42 + 3 得45
 在标量上下文中使用产生列表的表达式
@@ -113,8 +109,7 @@ $backwards = reverse qw/ yabba dabba doo /;
 强制指定标量上下文
 scalar 切换到标量上下文
 列表上下文中的<STDIN>
-chomp(@lines = <STDIN>);//读入所有行,换行符除外
-{% endcodeblock %}
+chomp(@lines = <STDIN>);//读入所有行,换行符除外</pre><code>
 
 _ _ _
 OK,将就这样吧！Good Luck！
