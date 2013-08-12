@@ -38,9 +38,9 @@ EXPIRE=
 SHELL=/bin/bash
 SKEL=/etc/skel
 CREATE_MAIL_SPOOL=yes
-```
+```  
 3. 有时我们运行`useradd username`时会出现`useradd: cannot lock /etc/passwd , try it again later.`
-我们可以这样解决：
+我们可以这样解决：  
 ```
 [root@benbenbear Work]# cd /etc/
 [root@benbenbear etc]# ls -l *.lock
