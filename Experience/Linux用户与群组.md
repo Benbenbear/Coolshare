@@ -1,6 +1,6 @@
 Linux用户标识符（User identifier）,简称UID，在类Unix系统中是内核用来辨识用户的一个无符号整型数值，也是文件系统与进程的必要组成部分之一。  
 前几天刚好有个customer遇到了一些用户管理的场景，总结一下：  
-1. 如果一个用户属于多个群组，在作业的时候到底是以哪个群组为准呢？这里就涉及到有效群组的问题：  
+* 如果一个用户属于多个群组，在作业的时候到底是以哪个群组为准呢？这里就涉及到有效群组的问题：  
 ```
 [root@benbenbear Downloads]# usermod -G test benbenbear  --->给用户benbenbear添加到次要群组test
 [root@benbenbear Downloads]# grep benbenbear /etc/passwd /etc/group /etc/gshadow
@@ -16,7 +16,7 @@ Linux用户标识符（User identifier）,简称UID，在类Unix系统中是内�
 benbenbear test  --->benbenbear即为有效群组
 ```
 可以通过`newgrp`来切换有效群组，`exit`返回原来的状态。  
-2. useradd
+* useradd
 ```
 useradd -u 后面接uid
 useradd -g 后面接initial group
@@ -39,14 +39,14 @@ SHELL=/bin/bash
 SKEL=/etc/skel
 CREATE_MAIL_SPOOL=yes
 ```  
-3. 有时我们运行`useradd username`时会出现`useradd: cannot lock /etc/passwd , try it again later.`  
+* 有时我们运行`useradd username`时会出现`useradd: cannot lock /etc/passwd , try it again later.`
 我们可以这样解决：
 ```
-[root@benbenbear Work]# cd /etc/  
-[root@benbenbear etc]# ls -l *.lock  
-[root@benbenbear etc]# rm –rf /etc/passwd.lock   
-[root@benbenbear etc]# rm –rf /etc/shadow.lock  
-[root@benbenbear etc]# rm –rf /etc/group.lock  
+[root@benbenbear Work]# cd /etc/
+[root@benbenbear etc]# ls -l *.lock
+[root@benbenbear etc]# rm –rf /etc/passwd.lock 
+[root@benbenbear etc]# rm –rf /etc/shadow.lock
+[root@benbenbear etc]# rm –rf /etc/group.lock
 [root@benbenbear etc]# rm –rf /etc/gshadow.lock
-```  
+```
 OK，Good Luck!!!
