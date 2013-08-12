@@ -179,7 +179,7 @@ I am being imported from another module
 
 0 directories, 3 files
 </pre></code>
-``` python mymodule.py
+``` python 
 #!/usr/bin/python
 
 def sayhello():
