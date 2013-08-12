@@ -1,4 +1,4 @@
-接着之前的[Python学习笔记#1](https://github.com/Benbenbear/Coolshare/blob/master/Experience/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%231.md), [Python学习笔记#2](https://github.com/Benbenbear/Coolshare/blob/master/Experience/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%232.md).         
+接着之前的[Python学习笔记#1](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%231.md), [Python学习笔记#2](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%232.md).         
 这次主要是有关Python的数据结构的知识。Python有三种内建的数据结构--列表，元组和字典。 
      
 `pro19.py 列表`
