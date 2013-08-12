@@ -39,14 +39,14 @@ SHELL=/bin/bash
 SKEL=/etc/skel
 CREATE_MAIL_SPOOL=yes
 ```  
-3. 有时我们运行`useradd username`时会出现`useradd: cannot lock /etc/passwd , try it again later.`
-我们可以这样解决：  
+3. 有时我们运行`useradd username`时会出现`useradd: cannot lock /etc/passwd , try it again later.`  
+我们可以这样解决：
 ```
-[root@benbenbear Work]# cd /etc/
-[root@benbenbear etc]# ls -l *.lock
-[root@benbenbear etc]# rm –rf /etc/passwd.lock 
-[root@benbenbear etc]# rm –rf /etc/shadow.lock
-[root@benbenbear etc]# rm –rf /etc/group.lock
+[root@benbenbear Work]# cd /etc/  
+[root@benbenbear etc]# ls -l *.lock  
+[root@benbenbear etc]# rm –rf /etc/passwd.lock   
+[root@benbenbear etc]# rm –rf /etc/shadow.lock  
+[root@benbenbear etc]# rm –rf /etc/group.lock  
 [root@benbenbear etc]# rm –rf /etc/gshadow.lock
-```
+```  
 OK，Good Luck!!!
