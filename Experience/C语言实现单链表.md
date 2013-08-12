@@ -1,5 +1,5 @@
 单链表是一种比较简单的数据结构，下面是用C语言来实现的单链表。可以实现链表插入，删除，查找，排序等功能。直接上源码吧。  
-``` c singleLinkedList.c
+``` c 
 /*
 * File     : singleLinkedList.c
 * Author   : benbenbear
@@ -496,8 +496,8 @@ int main(int argc, char *argv[])
 	return 0;
 }
 ```
-下面是部分测试结果：
-{% codeblock %}
+下面是部分测试结果:
+```
 [benbenbear@benbenbear benbenbear]$ gcc -g singLinkedList.c -o hello 
 [benbenbear@benbenbear benbenbear]$ ./hello 
 --- C Linked List Demo --- 
@@ -566,5 +566,5 @@ Enter a command(0-10, -1 to quit): 10
 9 8 7 5 2 1 
 Enter a command(0-10, -1 to quit): -1
 [benbenbear@benbenbear benbenbear]$ 
-{% endcodeblock %}
+```
 OK！下次再继续了的！    
