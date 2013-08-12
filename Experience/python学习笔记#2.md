@@ -187,7 +187,7 @@ def sayhello():
 
 version = '0.1'
 ``` 
-``` python pro18.py
+``` python 
 #!/usr/bin/python
 
 import mymodule
@@ -200,7 +200,7 @@ Hello, This is benbenbear.
 version 0.1
 </pre></code>
 `PS: 这个模块应该放置在我们输入它的程序的同一目录中，或者在sys.path所列目录之一。`
-``` python demo.py
+``` python
 #!/usr/bin/python
 
 from mymodule import sayhello, version
