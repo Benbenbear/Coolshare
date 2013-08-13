@@ -89,7 +89,7 @@ ctrl-w v  再纵向分一个window
 ```
 ####7. 其他
 ```
-:ab email benbenbear@example.com   下次在编辑时输入email就会自动转换成benbenbear@example.com,如果想暂时取消可以在输入后按ctrl-v
+:ab email benbenbear@example.com   下次在编辑时输入email就会自动转换成benbenbear@example.com,如果想暂时取消可以在输入后按ctrl-v，或者也可以通过:una来取消
 :4,9d    删除4到9行
 :3,9t.   把3到9行拷贝到当前行
 :t3.     把当前行拷贝到第3行 
