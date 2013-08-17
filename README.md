@@ -1,7 +1,7 @@
 #Coolshare
 ## Experience
 #### Linux
-* [Linux Shell文件描述符](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Linux%20Shell%E6%96%87%E4%BB%B6%E6%8F%8F%E8%BF%B0%E7%AC%A6.md)
+* [Linux Shell 文件描述符](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Linux%20Shell%E6%96%87%E4%BB%B6%E6%8F%8F%E8%BF%B0%E7%AC%A6.md)
 * [Linux Shell 数学运算](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Linux%20Shell%20%E6%95%B0%E5%AD%A6%E8%BF%90%E7%AE%97.md)
 * [Linux Shell 终端输出和变量使用](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Linux%20Shell%20%E7%BB%88%E7%AB%AF%E8%BE%93%E5%87%BA%E5%92%8C%E5%8F%98%E9%87%8F%E4%BD%BF%E7%94%A8.md)
 * [Vim常用技巧](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Vim%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7.md)  
