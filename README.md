@@ -1,6 +1,7 @@
 #Coolshare
 ## Experience
 #### Linux
+* [Linux Shell 终端输出和变量使用](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Linux%20Shell%20%E7%BB%88%E7%AB%AF%E8%BE%93%E5%87%BA%E5%92%8C%E5%8F%98%E9%87%8F%E4%BD%BF%E7%94%A8.md)
 * [Vim常用技巧](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Vim%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7.md)  
 * [常用Bash快捷键](https://github.com/Benbenbear/Coolshare/blob/master/Experience/%E5%B8%B8%E7%94%A8Bash%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
 * [Linux用户与群组](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Linux%E7%94%A8%E6%88%B7%E4%B8%8E%E7%BE%A4%E7%BB%84.md)
