@@ -32,6 +32,7 @@
 
 
 ## English
+* [Asking directions && Giving directions](https://github.com/Benbenbear/Coolshare/blob/master/English/Asking%20directions%20&&%20Giving%20directions.md)
 * [Popular Acronyms](https://github.com/Benbenbear/Coolshare/blob/master/English/Popular%20Acronyms.md)
 * [Invitations](https://github.com/Benbenbear/coolshare/blob/master/English/Invitations.md)
 * [Chinese-style English](https://github.com/Benbenbear/Coolshare/blob/master/English/Chinese-style%20English.md)
