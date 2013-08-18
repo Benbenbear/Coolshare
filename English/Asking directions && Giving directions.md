@@ -1,6 +1,6 @@
 Hello Everyone:
 
-I’m coming! Welcome to our English communication family. I have shared some popular acronyms last time, did you practice them in your daily communication with your coworkers/friends?
+I’m coming! Welcome to our English communication family. I have shared some popular acronyms last time, did you practice them in your daily communication with your coworkers/friends?  
 I met a foreigner on the weekend and he was lost, so he asked me for help. If you  encounter a similar situation, how would you do it? Correspondingly, I will share some referral with you in this topic.
 Let’s begin:  
 **1. Basic vocabulary:**
@@ -49,20 +49,23 @@ Let’s begin:
 * I’m sorry I can’t. I’m a stranger here myself.
 
 **4. Sample situation dialogue：** 
- A: Excuse me, Where am I on this map?
- B: We are here, bus station, we are in the heart of the city.
- A: Oh ! I think I’m lost. Can I go from here to the railway station?
- B: Head straight up the street about two blocks then turn left.
+ > A: Excuse me, Where am I on this map?  
+ > B: We are here, bus station, we are in the heart of the city.  
+ > A: Oh ! I think I’m lost. Can I go from here to the railway station?  
+ > B: Head straight up the street about two blocks then turn left. 
+ 
 
- A: Excuse me. I’m afraid I got lost. Can you show me the way to the station?
- B: I’m walking that way. Let me lead you the way.
+ > A: Excuse me. I’m afraid I got lost. Can you show me the way to the station?  
+ > B: I’m walking that way. Let me lead you the way.  
+ 
 
- A: Excuse me. I wonder if you could help me. I’m looking for the Museum.
- B: Boy, you are lost. It’s across town.
- A: Oh ! What bad luck ! How can I get to the Museum?
- B: You can take a No. 24 bus here and then transfer to a No.53 bus to get there.
+ > A: Excuse me. I wonder if you could help me. I’m looking for the Museum.  
+ > B: Boy, you are lost. It’s across town.  
+ > A: Oh ! What bad luck ! How can I get to the Museum?  
+ > B: You can take a No. 24 bus here and then transfer to a No.53 bus to get there.  
+ 
 
 Alrighty, Thank you for your reading. I’m looking forward to your suggestions and comments, please feel free to let me know if you have any concerns.
 
-Best Regards,
+Best Regards,  
 -James 
