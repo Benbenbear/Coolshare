@@ -1,6 +1,7 @@
 #Coolshare
 ## Experience
 #### Linux
+* [Linux Shell 调试和函数](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Linux%20Shell%20%E8%B0%83%E8%AF%95%E5%92%8C%E5%87%BD%E6%95%B0.md)
 * [Linux Shell 别名和日期设置](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Linux%20Shell%20%E5%88%AB%E5%90%8D%E5%92%8C%E6%97%A5%E6%9C%9F%E8%AE%BE%E7%BD%AE.md)
 * [Linux Shell 数组](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Linux%20Shell%20%E6%95%B0%E7%BB%84.md)
 * [Linux Shell 文件描述符](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Linux%20Shell%20%E6%96%87%E4%BB%B6%E6%8F%8F%E8%BF%B0%E7%AC%A6.md)
