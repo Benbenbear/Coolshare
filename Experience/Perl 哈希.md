@@ -38,7 +38,7 @@ my $number = values %hash;
 print "$count\n";
 print "$number\n";
 ```
-``` perl hash_result
+``` perl 
 [benbenbear@benbenbear perl]$ perl hash 
 c a b
 3 1 2
@@ -56,14 +56,14 @@ while (($key,$value) = each %hash) {
   print "$key => $value\n";
 }
 ```
-``` perl each_result
+``` perl 
 [benbenbear@benbenbear perl]$ perl each 
 c => 3
 a => 1
 b => 2
 ```
 当然，each返回键-值对的顺序是乱的，但它与keys和values返回的顺序相同，假如要一次处理哈希，只要对键排序就可以了。
-**exists 函数**
+**exists 函数**  
 若要检查哈希中是否存在某个键，可以使用exists函数。
 
 ``` perl
@@ -75,7 +75,7 @@ if(exists $hash{"a"}) {
   print "Existsed!\n";
 }
 ```
-**delete 函数**
+**delete 函数**  
 delete函数能从哈希中删除指定的键及其相应的值，假如没有这样的键，它就会直接结束，而不会出现任何警告和错误信息。
 
 ``` perl
