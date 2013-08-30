@@ -1,4 +1,4 @@
-**1. 脚本调试**
+**1. 脚本调试**  
 在Bash脚本中，可以使用`bash -x script.sh`或者`sh -x script.sh`来启动跟踪调试功能。其实也可以在脚本中使用set built-in来启动或禁止调试打印。
 * set -x: 在执行时显示参数和命令 
 * set +x: 禁止调试
@@ -7,7 +7,7 @@
 
 其实我们巧妙利用shebang把`#!/bin/bash`改成`#!/bin/bash -xv`,这样一来不用任何其他选项就可以启动调试功能了。
 
-**2. 函数**
+**2. 函数**  
 定义函数：
 ``` shell
 function fname() #function可以省略不写
