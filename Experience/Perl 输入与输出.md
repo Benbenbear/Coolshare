@@ -41,7 +41,7 @@ while (<>) {
   print "I saw $_!\n";
 }
 ```
-``` perl stdin_result
+``` perl 
 [benbenbear@benbenbear perl]$ perl stdin2 
 I saw AAAAAAAAAA!
 I saw BBBBBBBBBB!
@@ -77,7 +77,7 @@ my $format = "The items are:\n".("%10s\n" x @items);
 printf $format, @items;
 printf "The items are:\n".("%10s\n" x @items), @items; #上面两句可以合并为下面一句
 ```
-``` perl print_result
+``` perl 
 [benbenbear@benbenbear perl]$ perl print 
 The items are:
      hello
@@ -145,7 +145,7 @@ use warnings;
 open my $rock_fh, '<', 'rock.txt'
   or die "Could not open rock.txt: $!";
 ```
-``` perl die_result
+``` perl
 [benbenbear@benbenbear perl]$ perl die 
 Could not open rock.txt: No such file or directory at die line 4.
 ```
