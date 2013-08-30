@@ -21,8 +21,8 @@ if和else语句可以嵌套，但是可以用逻辑运算符将它变得简洁�
 [ condition ] && action; #如果condition为真，则执行action
 [ condition ] || action; #如果condition为假，则执行action
 ```
-**2. 算术比较**
-[ $var -eq 0 ] #一定要注意在[]与操作数之间有一个空格。
+**2. 算术比较**  
+`[ $var -eq 0 ] #一定要注意在[]与操作数之间有一个空格。`  
  一些重要的操作符：
  * -gt： 大于
  * -lt： 小于
@@ -57,7 +57,7 @@ if和else语句可以嵌套，但是可以用逻辑运算符将它变得简洁�
 * [[ -z $str ]]： 如果str包含的是空字符串时返回真
 * [[ -n $str ]]： 如果str包含的是非空字符串时返回真
 
-**5. test命令**
+**5. test命令**  
 test命令也可以用来作条件检测，前面所述的`[]`中的测试条件同样可以用于test命令。
 ```
 if [ $var -eq 0 ]; then echo "True"; fi
