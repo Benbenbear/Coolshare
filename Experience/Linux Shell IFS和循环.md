@@ -1,6 +1,6 @@
-**1. IFS**
-IFS（Internal Field Separator，内部字段分隔符）是脚本中一个非常重要的概念，它是存储定界符的环境变量，默认值是空白符（换行符、制表符和空格）。看下面实例：
-``` shell IFS.sh
+**1. IFS**  
+IFS（Internal Field Separator，内部字段分隔符）是脚本中一个非常重要的概念，它是存储定界符的环境变量，默认值是空白符（换行符、制表符和空格）。看下面实例：  
+``` shell 
 #!/bin/bash
 
 person="name,age,sex,location"
@@ -19,7 +19,7 @@ do
 done
 ```
 运行结果如下：
-``` shell Result
+``` shell
 [benbenbear@benbenbear shell]$ sh IFS.sh 
 Iterm: name
 Iterm: age
@@ -27,7 +27,7 @@ Iterm: sex
 Iterm: location
 Iterm: name,age,sex,location
 ```
-**2. 循环**
+**2. 循环**  
 `for循环`
 ``` shell
 for var in list;
@@ -61,7 +61,7 @@ do
   commands;
 done
 ```
-如果condition为true就会变成无限循环。
+如果condition为true就会变成无限循环。  
 `until循环`
 ``` shell
 #!/bin/bash
