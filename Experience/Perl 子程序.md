@@ -16,7 +16,7 @@ sub hello {
 &hello;
 &hello();
 ```
-``` perl sub_define_result
+``` perl 
 [benbenbear@benbenbear perl]$ perl sub_define 
 Hello, 1!
 Hello, 2!
@@ -37,7 +37,7 @@ sub max {
 $n = &max(10, 15);
 print "$n\n";
 ```
-``` perl subroutine_result
+``` perl 
 [benbenbear@benbenbear perl]$ perl subroutine 
 15
 ```
@@ -69,7 +69,7 @@ sub max {
   return $max_so_far; #return????
 }
 ```
-``` perl max_result
+``` perl 
 [benbenbear@benbenbear perl]$ perl max 
 23
 ```
