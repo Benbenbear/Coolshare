@@ -36,6 +36,7 @@
 * [Perl 入门](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Perl%20%E5%85%A5%E9%97%A8.md)
 * [Perl列表与数组](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Perl%E5%88%97%E8%A1%A8%E4%B8%8E%E6%95%B0%E7%BB%84.md)  
 * [Perl 子程序](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Perl%20%E5%AD%90%E7%A8%8B%E5%BA%8F.md)
+* [Perl 输入与输出](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Perl%20%E8%BE%93%E5%85%A5%E4%B8%8E%E8%BE%93%E5%87%BA.md)
 
 ## English
 * [Building and polishing a winning CV](https://github.com/Benbenbear/Coolshare/blob/master/English/Building%20and%20polishing%20a%20winning%20CV.md)
