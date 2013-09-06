@@ -1,6 +1,7 @@
 #Coolshare
 ## Experience
 #### Linux
+* [Linux rpm command](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Linux%20rpm%20command.md)
 * [Linux cat 命令](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Linux%20cat%E5%91%BD%E4%BB%A4.md)
 * [Linux Shell 比较与测试](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Linux%20Shell%20%E6%AF%94%E8%BE%83%E4%B8%8E%E6%B5%8B%E8%AF%95.md)
 * [Linux Shell IFS和循环](https://github.com/Benbenbear/Coolshare/blob/master/Experience/Linux%20Shell%20IFS%E5%92%8C%E5%BE%AA%E7%8E%AF.md)
