@@ -1,9 +1,9 @@
 RPM 是 Red Hat Package Manager 的缩写，是Redhat系列（RHEL，CentOS，Fedora）的常用包管理工具。通过root的权限，可以对rpm软件包进行恰当的管理， rpm 命令通常有五种基本的模式：
-> Install:      安装
-> Remove/Erase: 卸载
-> Upgrade：     升级
-> Query：       查询
-> Verify：      验证
+> Install:      安装  
+> Remove/Erase: 卸载  
+> Upgrade：     升级  
+> Query：       查询  
+> Verify：      验证  
 
 下面是一些常用的实例：
 
