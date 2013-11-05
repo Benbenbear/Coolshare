@@ -43,6 +43,7 @@
 
 
 ## English
+* [Expressing Thanks](https://github.com/Benbenbear/Coolshare/blob/master/English/Expressing%20Thanks.md)
 * [It's My Treat](https://github.com/Benbenbear/Coolshare/blob/master/English/It's%20My%20Treat.md)
 * [Building and polishing a winning CV](https://github.com/Benbenbear/Coolshare/blob/master/English/Building%20and%20polishing%20a%20winning%20CV.md)
 * [Asking directions && Giving directions](https://github.com/Benbenbear/Coolshare/blob/master/English/Asking%20directions%20&&%20Giving%20directions.md)
